@@ -232,7 +232,6 @@ export function AdminDashboard() {
             </div>
             <h1 className="text-2xl font-bold text-white mb-2">Admin Login</h1>
             <p className="text-slate-400">Masukkan password untuk melanjutkan</p>
-            <p className="text-xs text-slate-500 mt-2">Default: admin123</p>
           </div>
 
           <div className="space-y-4">
