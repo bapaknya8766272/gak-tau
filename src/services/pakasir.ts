@@ -5,7 +5,7 @@ const PAKASIR_BASE_URL = 'https://app.pakasir.com';
 // Konfigurasi Pakasir - Ganti dengan data proyek Anda
 const PAKASIR_CONFIG = {
   // TODO: Ganti dengan slug proyek Anda dari dashboard Pakasir
-  slug: 'bot-wa111111111', // <-- GANTI INI
+  slug: 'website-alfa', // <-- GANTI INI
   
   // TODO: Ganti dengan API key Anda (untuk API method)
   apiKey: 'EVzkbnwsLcOnnVnulZGuhXJVbr0iQPnc', // <-- GANTI INI jika pakai API method
